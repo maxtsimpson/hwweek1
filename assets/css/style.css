@@ -9,9 +9,6 @@ body {
   }
 
 /* this is the styles applied to the header section */
-/* the header class is relates to the blue header on the page
-it would be ideal to adjust it to allow for resizing on smaller devices like mobiles
-but i cant figure out how to do that  */
 
 .header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
